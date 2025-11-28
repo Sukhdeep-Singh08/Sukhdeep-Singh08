@@ -30,7 +30,7 @@ Según mis evaluaciones profesionales, destaco en áreas clave para el desarroll
 | 🚀 **Orientación al Logro** | **Puntaje Muy Alto.** No me rindo hasta que el código funciona y el proyecto cumple los estándares. |
 | 🎨 **Creatividad** | Busco soluciones innovadoras y diferentes a los problemas técnicos, no solo "lo de siempre". |
 | 🔄 **Flexibilidad** | Me adapto rápido a nuevas tecnologías, cambios en el proyecto o nuevos lenguajes de programación. |
-| 🗂️ **Planificación** | Código limpio y estructurado. Organizo mis tareas para cumplir los plazos (Deadlines). |
+| 🗂️ **Planificación** | Código limpio y estructurado. Organizo mis tareas para cumplir los plazos. |
 | 🤝 **Trabajo en Equipo** | La programación es colaborativa. Sé comunicarme, ayudar y aceptar feedback (Code Reviews). |
 | 🧘 **Autocontrol** | Mantengo la calma y la concentración cuando surgen errores críticos o "bugs" difíciles. |
 
