@@ -20,6 +20,22 @@ Cuento con **experiencia en prácticas**, donde aprendí a desenvolverme en ento
 
 ---
 
+### 💻 Proyectos Prácticos
+
+Durante mi formación he desarrollado proyectos para afianzar mis conocimientos en Front-end:
+
+* **⚽ Galería de Cartas de Fútbol:**
+    * Diseño de una interfaz visual con tarjetas (cards) de jugadores.
+    * Uso de **CSS** para la maquetación, alineación de imágenes y descripciones detalladas.
+    * Enfoque en la presentación visual y la estructura limpia.
+
+* **📝 Replicación de Formulario de Registro:**
+    * Creación de un formulario complejo desde cero copiando un diseño existente.
+    * Uso de etiquetas semánticas de **HTML5** y estilos para inputs y botones.
+    * Práctica de estructura de datos y usabilidad del usuario.
+
+---
+
 ### ⚡ Competencias y Soft Skills
 
 Según mis evaluaciones profesionales, destaco en áreas clave para el desarrollo de software. No solo escribo código, aporto metodología:
@@ -30,7 +46,7 @@ Según mis evaluaciones profesionales, destaco en áreas clave para el desarroll
 | 🚀 **Orientación al Logro** | **Puntaje Muy Alto.** No me rindo hasta que el código funciona y el proyecto cumple los estándares. |
 | 🎨 **Creatividad** | Busco soluciones innovadoras y diferentes a los problemas técnicos, no solo "lo de siempre". |
 | 🔄 **Flexibilidad** | Me adapto rápido a nuevas tecnologías, cambios en el proyecto o nuevos lenguajes de programación. |
-| 🗂️ **Planificación** | Código limpio y estructurado. Organizo mis tareas para cumplir los plazos. |
+| 🗂️ **Planificación** | Código limpio y estructurado. Organizo mis tareas para cumplir los plazos (Deadlines). |
 | 🤝 **Trabajo en Equipo** | La programación es colaborativa. Sé comunicarme, ayudar y aceptar feedback (Code Reviews). |
 | 🧘 **Autocontrol** | Mantengo la calma y la concentración cuando surgen errores críticos o "bugs" difíciles. |
 
